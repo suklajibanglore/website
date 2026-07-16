@@ -1,0 +1,59 @@
+Role: Executive UI/UX Designer & Frontend Developer (Specialized in Luxury & 3D Web Experiences).
+
+Task: Create a highly premium, VIP, 3D animated, and touch-responsive one-page portfolio website for an elite Vedic Astrologer & Ritual Specialist named "शुक्ला जी". Also, enhance the attached source images to fit this luxury aesthetic.
+
+---
+
+[PART 1: IMAGE ENHANCEMENT & PLACEMENT]
+You are provided with source images of Shukla Ji. Enhance them using the following guidelines:
+1. Studio Quality: Upscale the images to high-definition (HD), improve lighting, add a soft golden aura/glow around Shukla Ji, and remove any cluttered or unprofessional backgrounds.
+2. Background Replacement: Replace backgrounds with matte-black, deep charcoal, or cinematic studio backdrops featuring subtle, out-of-focus golden light particles or abstract sacred geometry.
+3. Hero Image: Use the best portrait image for the Hero Section. Apply a subtle 3D parallax depth effect so the background moves independently of the portrait on mouse-move or tilt/touch.
+4. Gallery Images: Process the remaining images to have a consistent warm, royal, and spiritual color grading. Place them in a 3D fluid carousel component.
+
+---
+
+[PART 2: UI/UX & VISUAL DESIGN STANDARD]
+- Theme: Dark Luxury & Auspicious (सकारात्मकता, शक्ति, और कार्य-सिद्धि).
+- Color Palette: Matte Black/Deep Charcoal (#121212) as primary background, Royal Gold (#D4AF37) for accents/highlights, and a subtle Touch of Sacred Crimson/Red for powerful rituals.
+- Visual FX: Incorporate fluid transitions, floating golden particles (micro-animations), and smooth scroll-triggered animations using GSAP/Framer Motion physics.
+- Tone: Divine, highly prestigious, elite, and clean. (Strictly NO reference to funeral or post-death rituals like अंत्येष्टि क्रिया).
+
+---
+
+[PART 3: WEBSITE STRUCTURE & CONTENT (EXACT DATA)]
+The website must be a single-page portfolio with the following sections using the exact text provided:
+
+1. DIVINE INVOCATION (मंत्र खंड - Top Header / Hero Background)
+   - Display these two powerful mantras in a grand, glowing, and elegant Sanskrit script at the top, fading in with a cinematic glow:
+     * "ॐ नमः शिवाय"
+     * "शुभं करोति कल्याणं आरोग्यं धनसंपदा । शत्रुबुद्धिविनाशाय दीपज्योतिर्नमोऽस्तुते ॥"
+
+2. HERO SECTION (The Grand Entry)
+   - Title: "शुक्ला जी" (Display in a grand, premium golden font)
+   - Philosophy: "शुद्ध मंत्रोच्चारण और संपूर्ण विधि-विधान के साथ सभी पूजा और अनुष्ठान।"
+   - Shukla Ji's Enhanced Royal Portrait with a 3D depth effect.
+
+3. SPECIALIZATION SECTION (विशेषज्ञता - 3D/10D Interactive Cards)
+   Create highly responsive 3D flip-cards or interactive grid items.
+   - Card 1: यज्ञ एवं विशेष अनुष्ठान (सभी प्रकार के बड़े यज्ञ) -> [Visual: 3D Hawan Kund with dynamic golden flames]
+     *(Internal Note: Explicitly highlight special rituals like रुद्र अनुष्ठान, शतचंडी, नवचंडी, महाविद्या/बगलामुखी साधना for कार्य-सिद्धि)*
+   - Card 2: ज्योतिष परामर्श (कुंडली विश्लेषण एवं दोष निवारण) -> [Visual: 3D rotating Zodiac/Rashi Wheel]
+   - Card 3: वास्तु परामर्श (घर और व्यवसाय के लिए आध्यात्मिक सलाह) -> [Visual: 3D Vastu Purusha Mandala layout]
+   - Card 4: शास्त्रोक्त पूजा-पाठ (गृह प्रवेश, मुंधन, विवाह, रुद्राभिषेक, हवन) -> [Visual: 3D Sacred Kalash with mango leaves]
+
+4. BRAND TAGLINE & GALLERY
+   - Tagline: "🙏 धर्म से सेवा, श्रद्धा से सफलता 🙏"
+   - A 3D fluid carousel displaying the enhanced images of major events and rituals.
+
+5. QUICK CONNECT & CONTACT (Footer)
+   - Contact Numbers: 9739534281, 9844318328
+   - Buttons:
+     * [Call Now 1]: +91 9739534281
+     * [Call Now 2]: +91 9844318328
+     * [WhatsApp Connect]: Direct Link
+     * [Facebook Page]: https://www.facebook.com/share/1EY33M1kR7/
+
+---
+
+Deliverable Required: Generate the complete clean production-ready code (Next.js/React + Tailwind CSS + Framer Motion) OR a complete visual component structure matching this description. Ensure the website is lightweight, mobile-first, and ultra-responsive to touch.
